@@ -1,0 +1,30 @@
+{
+  "name": "unity-docs",
+  "version": "1.0.0",
+  "description": "Documentation around Unity",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluecadet/unity-docs.git"
+  },
+  "author": "Pete Inge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluecadet/unity-docs/issues"
+  },
+  "homepage": "https://github.com/bluecadet/unity-docs#readme",
+  "devDependencies": {
+    "docpress": "0.7.1"
+  },
+  "docpress": {
+    "github": "bluecadet/drupal-docs",
+    "css": [
+      "docs/main.css"
+    ]
+  }
+}
