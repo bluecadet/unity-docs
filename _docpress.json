@@ -1,0 +1,37 @@
+{
+  "toc": {
+    "sections": [
+      {
+        "title": "Unity Docs",
+        "source": "README.md",
+        "url": "index.html",
+        "slug": "index"
+      },
+      {
+        "title": "Using Git",
+        "source": "docs/using-git.md",
+        "url": "using-git.html",
+        "slug": "using-git"
+      }
+    ]
+  },
+  "index": {
+    "index.html": {
+      "source": "README.md",
+      "title": "Unity Docs",
+      "pageTitle": "Unity Docs",
+      "slug": "index"
+    },
+    "using-git.html": {
+      "source": "docs/using-git.md",
+      "title": "Using Git - Unity Docs",
+      "pageTitle": "Using Git",
+      "slug": "using-git"
+    }
+  },
+  "sources": {
+    "README.md": "index.html",
+    "docs/using-git.md": "using-git.html",
+    "docs/main.css": "main.css"
+  }
+}
